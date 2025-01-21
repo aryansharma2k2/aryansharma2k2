@@ -3,9 +3,9 @@
 I'm a **Machine Learning Engineer** and **Backend Developer** with a passion for building **robust** and **scalable systems**. I specialize in leveraging **Python**, **Java**, and **cloud technologies** (especially **AWS**) to create **AI-driven solutions** and **data pipelines** that make a real business impact. 🚀
 
 ## 🌱 What I Do
-- **Machine Learning**: Turning raw data into actionable insights with cutting-edge models 🧠
-- **Backend Development**: Crafting **RESTful APIs** and **microservices** that scale effortlessly 🌍
-- **Cloud-Native Architectures**: Designing and deploying high-performance systems in the cloud ☁️
+🧠 **Machine Learning**: Turning raw data into actionable insights with cutting-edge models 
+🌍 **Backend Development**: Crafting **RESTful APIs** and **microservices** that scale effortlessly 
+☁️ **Cloud-Native Architectures**: Designing and deploying high-performance systems in the cloud 
 
 I thrive on creating systems that are not just efficient, but **secure**, **reliable**, and built to **scale** in the cloud. Whether it's building AI pipelines or architecting cloud-based solutions, I love blending **data** with **development** to solve complex problems and drive innovation. 💡
 
