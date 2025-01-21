@@ -35,7 +35,7 @@ Let's connect and collaborate! You can reach out to me through the links below.
 - **LinkedIn**: [linkedin.com/in/aryansharma2k2](https://linkedin.com/in/aryansharma2k2)
 - **Email**: [inguvaaryan22@gmail.com](mailto:inguvaaryan22@gmail.com)
 
----
-
+<!--
 ## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=aryansharma2k2&show_icons=true&count_private=true&hide_title=true)
+-->
