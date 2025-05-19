@@ -15,9 +15,6 @@ I thrive on creating systems that are not just efficient, but **secure**, **reli
 - Pursuing a **Master's in Computer Science** at **North Carolina State University**
 - Diving deep into **Machine Learning algorithms**, **System Design**, and **Cloud Computing** 💻
 
-## Let's Connect! 🔗
-I’m always excited to collaborate and explore how we can use technology to create **real-world impact**. Feel free to reach out to me through any of the links below! 👇
-
 
 ## 💻 Tech Stack & Expertise
 - **Languages**: Python, Java, C, Javascript, SQL, Ruby
