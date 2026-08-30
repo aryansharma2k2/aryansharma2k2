@@ -32,11 +32,17 @@ More at [my portfolio](https://aryansharma2k2.github.io/).
 ## Tech Stack
 
 **Languages:** Python, Java, C, C++, JavaScript, TypeScript, SQL, Ruby
+
 **Frameworks:** TensorFlow, PyTorch, Flask, Spring, Spring Boot, Ruby on Rails, Django, React, LangChain, LlamaIndex, Spark
+
 **GPU / Performance:** CUDA (custom kernels, shared-memory tiling, warp-level reductions, kernel fusion), NVIDIA Nsight, PyTorch C++ bindings
+
 **Cloud / Infra:** AWS (EC2, S3, OpenSearch Serverless, Bedrock), Docker, Kubernetes, Prometheus, Grafana, Chaos Mesh, Helm
+
 **Databases:** PostgreSQL, MySQL, MongoDB, Redis, OpenSearch, ChromaDB, Qdrant, FAISS
+
 **Tools:** Git, Jenkins, Wireshark, Jupyter Notebooks
+
 **AI & ML:** Machine Learning, Deep Learning, NLP, Generative AI, RAG pipelines, Data Engineering, Image Processing
 
 ## Let's Connect
