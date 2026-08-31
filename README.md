@@ -1,6 +1,6 @@
 # Hi, I'm Aryan
 
-Software engineer building AI infrastructure, distributed systems, and GPU-accelerated ML. I'd rather find out why something is slow than paper over it — the retrieval layer that's fine until it isn't, the scheduler nobody thinks about until it starves a process, the CUDA kernel that's the real reason training got 3x faster.
+Software engineer building AI infrastructure, distributed systems and GPU-accelerated ML. I'd rather find out why something is slow than paper over it like the retrieval layer, the scheduler or the CUDA kernel that's the reason training got 3x faster.
 
 **85%** query latency reduced (RAG platform, 100+ enterprise clients) · **340x** CUDA kernel speedup · **74%** top-3 root-cause accuracy on a black-box LLM-serving diagnosis pipeline
 
